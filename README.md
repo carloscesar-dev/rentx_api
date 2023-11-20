@@ -1,10 +1,6 @@
-**RF =>** _Requisitos funcionais_
+#`#FE2020`R`#0969DA`entx#
 
-**RNF =>**_Requisitos não funcionais_
-
-**RN =>**_Regras de negócios_
-
-**Cadastro de carro**
+##Cadastro de carro##
 
 _RF_
 
@@ -16,7 +12,7 @@ Não deve ser possível cadastrar um carro com uma placa já existente.
 O carro deve ser cadastrado, por padrão, com disponibilidade.
 O usuário responsável pelo cadastro deve ser um usuário administrador.
 
-**Listagem de carros**
+##Listagem de carros##
 
 _RF_
 
@@ -29,7 +25,7 @@ _RN_
 
 O usuário não precisar estar logado no sistema.
 
-**Cadastro de Especificação no carro**
+##Cadastro de Especificação no carro##
 
 _RF_
 
@@ -41,7 +37,7 @@ Não deve ser possível cadastrar uma especificação para um - carro não cadas
 Não deve ser possível cadastrar uma especificação já - existente para o mesmo carro.
 O usuário responsável pelo cadastro deve ser um usuário - administrador.
 
-**Cadastro de imagens do carro**
+##Cadastro de imagens do carro##
 
 _RF_
 
@@ -55,7 +51,7 @@ _RN_
 O usuário deve poder cadastrar mais de uma imagem para o - mesmo carro
 O usuário responsável pelo cadastro deve ser um usuário - administrador.
 
-**Aluguel de carro**
+##Aluguel de carro##
 
 _RF_
 
@@ -69,7 +65,7 @@ Não deve ser possível cadastrar um novo aluguel caso já - exista um aberto pa
 O usuário deve estar logado na aplicação
 Ao realizar um aluguel, o status do carro deverá ser - alterado para indisponível
 
-**Devolução de carro**
+##Devolução de carro##
 
 _RF_
 
@@ -85,7 +81,7 @@ Caso o horário de devolução seja superior ao horário - previsto de entrega, 
 Caso haja multa, deverá ser somado ao total do aluguel.
 O usuário deve estar logado na aplicação
 
-**Listagem de Alugueis para usuário**
+##Listagem de Alugueis para usuário##
 
 _RF_
 
@@ -95,7 +91,7 @@ _RN_
 
 O usuário deve estar logado na aplicação
 
-**Recuperar Senha**
+##Recuperar Senha##
 
 _RF_
 
@@ -106,3 +102,11 @@ O usuário deve conseguir inserir uma nova senha
 _RN_
 O usuário precisa informar uma nova senha
 O link enviado para a recuperação deve expirar em 3 horas
+
+
+
+**RF =>** _Requisitos funcionais_
+
+**RNF =>**_Requisitos não funcionais_
+
+**RN =>**_Regras de negócios_
