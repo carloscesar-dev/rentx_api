@@ -14,7 +14,7 @@
 
 ## Listagem de carros
 
-* RF *
+**RF**
 
 * Deve ser possível listar todos os carros disponíveis
 * Deve ser possível listar todos os carros disponíveis pelo - nome da categoria
@@ -33,9 +33,9 @@
 
 **RN**
 
-*Não deve ser possível cadastrar uma especificação para um - carro não cadastrado.
-*Não deve ser possível cadastrar uma especificação já - existente para o mesmo carro.
-*O usuário responsável pelo cadastro deve ser um usuário - administrador.
+* Não deve ser possível cadastrar uma especificação para um - carro não cadastrado.
+* Não deve ser possível cadastrar uma especificação já - existente para o mesmo carro.
+* O usuário responsável pelo cadastro deve ser um usuário - administrador.
 
 ## Cadastro de imagens do carro
 
