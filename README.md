@@ -1,12 +1,13 @@
-***_Requisitos funcionais_***
+**RF =>** _Requisitos funcionais_
 
-***_Requisitos não funcionais_***
+**RNF =>**_Requisitos não funcionais_
 
-***_Regras de negócios_***
+**RN =>**_Regras de negócios_
 
 **Cadastro de carro**
 
 _RF_
+
 Deve ser possível cadastrar um novo carro.
 
 _RN_
@@ -69,6 +70,7 @@ O usuário deve estar logado na aplicação
 Ao realizar um aluguel, o status do carro deverá ser - alterado para indisponível
 
 **Devolução de carro**
+
 _RF_
 
 Deve ser possível realizar a devolução de um carro
